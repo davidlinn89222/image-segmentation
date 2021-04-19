@@ -1,0 +1,35 @@
+% 格式：report
+\documentclass[12pt,a4paper]{report}
+
+% 中文字形
+\usepackage{CJK}
+
+% 行距設定
+\renewcommand{\baselinestretch}{1.5} 
+
+% 頁首頁尾距離
+% Flexible and complete interface to document dimensions
+% https://ctan.org/pkg/geometry
+\usepackage{geometry}
+\geometry{a4paper,left=2.54cm,right=2.54cm,top=2.54cm,bottom=2.54cm}
+
+\title{Real Analysis}
+
+\author{}
+\date{}
+
+\begin{document}
+\begin{CJK}{UTF8}{bsmi}%\begin{CJK}{UTF8}{bsmi}
+\CJKindent
+
+\maketitle
+
+\begin{abstract}
+
+
+司法差距是各國政府長期困擾的社會議題，臺灣法律扶助基金會為國內針對此議題之對策組織，礙於組織不諳統計方法，難以量化服務需求找出潛在之重點服務區。本研究期望以空間統計方法初探法律扶助案件之分布，利用區域資料分析，探討法律扶助案件數於北北基各經濟二級發布區之分布樣態，建構合適的貝氏階層線性模型，以標示出法律扶助案件申請之潛在需求區，並推論影響案件數的因子及其效果。首先，利用 Moran's I 指標發現案件數分布具空間自我相關性，再以 CAR 模型設定研究區域之空間結構，將隨機效果項納入廣義線性模型，使用 R 語言 INLA 套件進行參數之貝氏估計。最後，本研究比較 Besag-York-Mollie、Leroux Model 及 Locally Adaptive Model 3~種 CAR 模型之空間結構設定，以 Besag-York-Mollie 模型為最適解釋法律扶助案件申請的分析模型，供法扶基金會作為後續擬策參考。
+
+\end{abstract}
+
+\end{CJK}
+\end{document}

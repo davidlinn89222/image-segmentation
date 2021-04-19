@@ -1,0 +1,552 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.9)  18 APR 2021 19:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count163
+\c@chapter=\count164
+\c@section=\count165
+\c@subsection=\count166
+\c@subsubsection=\count167
+\c@paragraph=\count168
+\c@subparagraph=\count169
+\c@figure=\count170
+\c@table=\count171
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2015/04/18 4.8.4
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2015/04/18 4.8.4
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2015/04/18 4.8.4
+)
+LaTeX Info: Redefining \selectfont on input line 755.
+\CJK@indent=\box45
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count172
+\Gm@cntv=\count173
+\c@Gm@tempcnt=\count174
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks16
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-03-12 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count175
+\l__pdf_internal_box=\box46
+\g__pdf_backend_object_int=\count176
+\g__pdf_backend_annotation_int=\count177
+) (./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
+1.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.2698pt, 452.96826pt, 72.2698pt)
+* v-part:(T,H,B)=(72.2698pt, 700.50723pt, 72.2698pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.96826pt
+* \textheight=700.50723pt
+* \oddsidemargin=-0.00018pt
+* \evensidemargin=-0.00018pt
+* \topmargin=-37.00018pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+File: UTF8.bdg 2015/04/18 4.8.4
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2015/04/18 4.8.4
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2015/04/18 4.8.4
+)
+LaTeX Font Info:    Trying to load font information for C70+bsmi on input line 
+23.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fd
+File: c70bsmi.fd 2015/04/18 4.8.4
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fdx
+File: c70bsmi.fdx 2015/04/18 4.8.4
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 25.
+
+[1
+
+]
+Missing character: There is no 司 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 法 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 差 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 距 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 是 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 各 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 國 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 政 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 府 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 長 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 期 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 困 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 擾 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 社 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 會 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 議 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 題 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 臺 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 灣 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 法 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 律 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 扶 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 助 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 基 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 金 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 會 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 為 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 國 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 內 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 針 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 對 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 此 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 議 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 題 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 之 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 對 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 策 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 組 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 織 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 礙 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 於 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 組 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 織 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 不 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 諳 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 統 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 計 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 方 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 法 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 難 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 以 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 量 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 化 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 服 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 務 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 需 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 求 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 找 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 出 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 潛 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 在 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 之 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 重 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 點 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 服 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 務 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 區 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 本 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 研 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 究 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 期 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 望 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 以 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 空 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 間 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 統 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 計 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 方 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 法 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 初 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 探 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 法 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 律 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 扶 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 助 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 案 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 件 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 之 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 分 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 布 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 利 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 用 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 區 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 域 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 資 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 料 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 分 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 析 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 探 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 討 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 法 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 律 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 扶 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 助 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 案 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 件 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 數 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 於 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 北 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 北 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 基 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 各 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 經 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 濟 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 二 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 級 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 發 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 布 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 區 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 之 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 分 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 布 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 樣 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 態 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 建 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 構 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 合 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 適 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 貝 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 氏 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 階 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 層 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 線 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 性 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 模 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 型 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 以 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 標 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 示 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 出 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 法 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 律 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 扶 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 助 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 案 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 件 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 申 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 請 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 之 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 潛 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 在 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 需 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 求 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 區 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 並 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 推 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 論 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 影 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 響 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 案 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 件 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 數 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 因 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 子 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 及 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 其 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 效 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 果 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 首 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 先 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 利 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 用 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 指 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 標 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 發 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 現 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 案 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 件 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 數 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 分 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 布 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 具 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 空 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 間 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 自 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 相 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 關 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 性 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 再 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 以 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 模 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 型 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 設 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 定 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 研 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 究 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 區 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 域 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 之 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 空 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 間 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 結 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 構 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 將 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 隨 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 機 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 效 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 果 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 項 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 納 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 入 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 廣 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 義 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 線 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 性 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 模 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 型 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 使 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 用 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 語 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 言 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 套 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 件 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 進 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 行 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 參 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 數 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 之 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 貝 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 氏 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 估 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 計 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 最 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 後 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 本 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 研 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 究 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 比 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 較 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 、 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 及 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 種 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 模 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 型 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 之 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 空 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 間 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 結 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 構 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 設 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 定 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 以 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 模 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 型 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 為 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 最 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 適 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 解 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 釋 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 法 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 律 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 扶 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 助 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 案 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 件 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 申 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 請 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 分 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 析 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 模 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 型 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 供 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 法 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 扶 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 基 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 金 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 會 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 作 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 為 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 後 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 續 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 擬 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 策 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 參 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 考 in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman12-regular]:mapping=tex-text;!
+
+Overfull \hbox (195.99176pt too wide) in paragraph at lines 30--31
+[]\TU/lmr/m/n/12 司法差距是各國政府長期困擾的社會議題，臺灣法律扶助基金會為國內針對此議題之對策組織，礙於組織不諳統計方法，難以量化服務需求找
+出潛在之重點服務區。本研究期望以空間統計方法初探法律扶助案件之分布，利用區域資料分析，探討法律扶助案件數於北北基各經濟二級發布區之分布樣態，建構合適的貝氏階層
+線性模型，以標示出法律扶助案件申請之潛在需求區，並推論影響案件數的因子及其效果。首先，利用
+ []
+
+
+Overfull \hbox (84.53049pt too wide) in paragraph at lines 30--31
+\TU/lmr/m/n/12 Mollie、Leroux Model 及 Locally Adaptive Model 3 種 CAR 模型之空間結構設定，以
+ Besag-York-Mollie 模型為最適解釋法律扶助案件申請的分析模型，供法扶基金會作為後續擬策參考。 
+ []
+
+[1] (./report.aux) ) 
+Here is how much of TeX's memory you used:
+ 2129 strings out of 479418
+ 30394 string characters out of 5884586
+ 274838 words of memory out of 5000000
+ 19678 multiletter control sequences out of 15000+600000
+ 533362 words of font info for 32 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 30i,4n,25p,428b,397s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on report.pdf (2 pages).

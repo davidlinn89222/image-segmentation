@@ -1,0 +1,9 @@
+The rand score for Kmeans in scenario 1 is 0.9991
+The rand score for GMM in scenario 1 is 1.0
+The rand score for DBSCAN in scenario 1 is 0.9993
+The rand score for Kmeans in scenario 2 is 0.9732
+The rand score for GMM in scenario 2 is 1.0
+The rand score for DBSCAN in scenario 2 is 0.9989
+The rand score for Kmeans in scenario 3 is 0.6129
+The rand score for GMM in scenario 3 is 0.6542
+The rand score for DBSCAN in scenario 3 is 0.995
